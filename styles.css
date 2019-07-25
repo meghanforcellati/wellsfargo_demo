@@ -1,0 +1,16 @@
+img {
+ padding: 20px 0px 50px 10px;   
+}
+
+.yellowbar{
+    height: 7% !important; 
+}
+
+.filler{
+    height: 700px !important;
+}
+
+.footer{
+    color: grey !important;
+    height: 300px!important;
+}
